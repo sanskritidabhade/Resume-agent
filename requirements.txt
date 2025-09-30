@@ -1,7 +1,7 @@
-openai
-rapidfuzz
-python-docx
-pandas
-scikit-learn
-streamlit
-python-dotenv
+openai # For resume bullet rewrites, cover letter, etc.
+rapidfuzz # For keyword matching (resume vs job desc.)
+python-docx # For reading Word resumes
+pandas # For optional structured analysis
+scikit-learn # Could be useful later for keyword extraction (TF-IDF etc.)
+streamlit # For simple web UI
+python-dotenv # To store the OpenAI API key safely in a .env file
