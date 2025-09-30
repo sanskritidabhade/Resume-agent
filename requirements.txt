@@ -1,0 +1,7 @@
+openai
+rapidfuzz
+python-docx
+pandas
+scikit-learn
+streamlit
+python-dotenv
